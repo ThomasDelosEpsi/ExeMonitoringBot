@@ -1,0 +1,72 @@
+{
+    "1966356": [
+        "FR - Invoices Reconcilliation",
+        "Luc.Dispatcher",
+        "Luc_Performer",
+        "Luc.Reporter",
+        "AFP-PERFORMER",
+        "Altares2",
+        "Altares.Dispatcher",
+        "Altares.Performer",
+        "Altares.Reporter",
+        "FR_ManagementEDIOrdersRejection_Windows",
+        "CFAC.Pricing.Process"
+    ],
+    "1966108": [
+        "CH_ManagementEDIOrdersRejection_Windows"
+    ],
+    "1966362": [
+        "GRP_BNL_PBS",
+        "BNL_ManagementEDIOrdersRejection_Windows",
+        "GRP - BNL - Customer Specific Stock Report",
+        "GRP - BNL - Dropshipment Supplier Chasing"
+    ],
+    "1966391": [
+        "CASH_ManagementEDIOrdersRejection_Windows"
+    ],
+    "1966046": [
+        "DEN_ManagementEDIOrdersRejection_Windows"
+    ],
+    "1966072": [
+        "TrackingByMailV2"
+    ],
+    "1966085": [
+        "GER_ManagementEDIOrdersRejection_Windows"
+    ],
+    "1966379": [
+        "Birth Bot",
+        "GRP-SAL-Rebates.Management",
+        "GRP - Supplier Chasing",
+        "GRP-SAL-Rebates.Management"
+    ],
+    "2016480": [
+        "Bot.HR",
+        "Merge.pdf",
+        "Report.Day"
+    ],
+    "1966350": [
+        "IBE_ManagementEDIOrdersRejection_Windows"
+    ],
+    "1966100": [
+        "IT_ManagementEDIOrdersRejection_Windows"
+    ],
+    "1966059": [
+        "BackOrder.Dispatcher.V2",
+        "BackOrder.Performer.V2"
+    ],
+    "1966042": [],
+    "1966004": [
+        "PL_ManagementEDIOrdersRejection_Windows",
+        "POL-SC-Operational.Report.1",
+        "POL-SC-Operational.Report.2"
+    ],
+    "1966003": [
+        "PL - Orders Rounding"
+    ],
+    "1966091": [],
+    "1966036": [],
+    "1966022": [],
+    "1966064": [
+        "WISE_ManagementEDIOrdersRejection_Windows"
+    ]
+}
